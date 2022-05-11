@@ -11,3 +11,5 @@ am currently looking to start working as a software engineer for a game studio, 
 
 If you want to reach out you can get in touch through my [personal website](https://alecgrover.com) or by
 shooting me a DM on Twitter [@SlushOnTTV](https://twitter.com/SlushOnTTV). I'd love to hear from you!
+
+Or if you want to play some of the games I'm working on, check me out [itch.io](https://sergeant-slash.itch.io) :D
