@@ -7,7 +7,8 @@ inventing cocktails.
 
 I'm an experienced developer in both C++ with Unreal and C# with Unity.
 I also have significant previous experience in Java, Python, and some web development. Since graduating at the
-end of 2021 I have been honing my craft through contract work, but I'm looking forward to taking the next step!
+end of 2021 I have been honing my craft in the games industry where I've worked on multiple high profile projects
+focusing on both economy gameplay and later game development.
 
 If you want to reach out you can get in touch through my [personal website](https://alecgrover.com) or by
 shooting me a DM on Twitter [@SlushOnTTV](https://twitter.com/SlushOnTTV). I'd love to hear from you!
